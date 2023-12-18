@@ -1,3 +1,3 @@
 run:
-	@go run ./cmd/web
+	@air ./cmd/http
 	
